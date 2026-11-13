@@ -2,3 +2,5 @@
 
 ## Part 0 - Fundamentals of Web apps
 The first exercises are more about the introduction to browser - server communication as mermaid diagrams.
+
+## Part 1 - Introduction to React
